@@ -1,6 +1,8 @@
 ﻿Imports Npgsql
 Imports System.Xml
 
+'uncomment active column if needed
+
 Public Class frmBodyTypes
     Private gSortingColumn As ColumnHeader
 

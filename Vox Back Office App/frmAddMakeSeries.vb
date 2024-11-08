@@ -1,6 +1,9 @@
 ﻿Imports Npgsql
 Imports System.Xml
 
+'uncomment active column if needed
+
+
 Public Class frmAddMakeSeries
     Private gSortingColumn As ColumnHeader
 
@@ -122,6 +125,7 @@ Public Class frmAddMakeSeries
         End If
     End Sub
 
+    'uncomment incase needed
     ' function to increment an alphabetic code like 'AAA' -> 'AAB', etc.
     'Private Function IncrementAlphabetic(code As String) As String
     '    Dim letters() As Char = code.ToCharArray()
