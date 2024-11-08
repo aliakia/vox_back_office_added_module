@@ -1,0 +1,541 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CEF21F68-6285-454A-9A7D-4E63D9D5D095}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Vox_Back_Office_App.My.MyApplication</StartupObject>
+    <RootNamespace>Vox_Back_Office_App</RootNamespace>
+    <AssemblyName>Vox Back Office App</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.0</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Vox Back Office App.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Vox Back Office App.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>5F8B300B2F6EB5CF2C68224B0FE5CACA655CCB73</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Vox Back Office App_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>VOX-DEI-APPS-ICON.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Npgsql">
+      <HintPath>Npgsql-2.2.3-net45\Npgsql.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAccountingPetcBalanceManager.Designer.vb">
+      <DependentUpon>frmAccountingPetcBalanceManager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAccountingPetcBalanceManager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAccountingPetcBillingManager.Designer.vb">
+      <DependentUpon>frmAccountingPetcBillingManager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAccountingPetcBillingManager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAccountingPetcLedgerAddEntry.Designer.vb">
+      <DependentUpon>frmAccountingPetcLedgerAddEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAccountingPetcLedgerAddEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAccountingStradcomBalanceManager.Designer.vb">
+      <DependentUpon>frmAccountingStradcomBalanceManager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAccountingStradcomBalanceManager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAccountingStradcomLedgerAddEntry.Designer.vb">
+      <DependentUpon>frmAccountingStradcomLedgerAddEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAccountingStradcomLedgerAddEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddColorModule.Designer.vb">
+      <DependentUpon>frmAddColorModule.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddColorModule.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddMakeSeries.Designer.vb">
+      <DependentUpon>frmAddMakeSeries.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddMakeSeries.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBodyTypes.Designer.vb">
+      <DependentUpon>frmBodyTypes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBodyTypes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHolidaysManager.Designer.vb">
+      <DependentUpon>frmHolidaysManager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmHolidaysManager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHolidaysManagerAddEdit.Designer.vb">
+      <DependentUpon>frmHolidaysManagerAddEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmHolidaysManagerAddEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogsSystemActivities.Designer.vb">
+      <DependentUpon>frmLogsSystemActivities.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogsSystemActivities.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogsUserActivities.Designer.vb">
+      <DependentUpon>frmLogsUserActivities.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogsUserActivities.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMaintenanceEWalletPetc.Designer.vb">
+      <DependentUpon>frmMaintenanceEWalletPetc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMaintenanceEWalletPetc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMasterDbManager.Designer.vb">
+      <DependentUpon>frmMasterDbManager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMasterDbManager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPetcForUploadMonitoring.Designer.vb">
+      <DependentUpon>frmPetcForUploadMonitoring.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPetcForUploadMonitoring.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPetcDataTransmissions.Designer.vb">
+      <DependentUpon>frmPetcDataTransmissions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPetcDataTransmissions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPetcDataTransmissionsEnlargeImage.Designer.vb">
+      <DependentUpon>frmPetcDataTransmissionsEnlargeImage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPetcDataTransmissionsEnlargeImage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPetcDataTransmissionViewAllFields.Designer.vb">
+      <DependentUpon>frmPetcDataTransmissionViewAllFields.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPetcDataTransmissionViewAllFields.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPetcManager.Designer.vb">
+      <DependentUpon>frmPetcManager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPetcManager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPetcManagerAddEdit.Designer.vb">
+      <DependentUpon>frmPetcManagerAddEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPetcManagerAddEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPetcManagerImport.Designer.vb">
+      <DependentUpon>frmPetcManagerImport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPetcManagerImport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPetcManagerImportCreate.Designer.vb">
+      <DependentUpon>frmPetcManagerImportCreate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPetcManagerImportCreate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPetcReportsPerformance.Designer.vb">
+      <DependentUpon>frmPetcReportsPerformance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPetcReportsPerformance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPetcSalesSummaryReport.Designer.vb">
+      <DependentUpon>frmPetcSalesSummaryReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPetcSalesSummaryReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegionsProvincesCities.Designer.vb">
+      <DependentUpon>frmRegionsProvincesCities.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegionsProvincesCities.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegionsProvincesCitiesAddEntry.Designer.vb">
+      <DependentUpon>frmRegionsProvincesCitiesAddEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegionsProvincesCitiesAddEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAccountingPetcBillingManagerProcess.Designer.vb">
+      <DependentUpon>frmAccountingPetcBillingManagerProcess.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAccountingPetcBillingManagerProcess.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSplashScreen.Designer.vb">
+      <DependentUpon>frmSplashScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSplashScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTerminalsManager.Designer.vb">
+      <DependentUpon>frmTerminalsManager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTerminalsManager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTerminalsManagerAddEdit.Designer.vb">
+      <DependentUpon>frmTerminalsManagerAddEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTerminalsManagerAddEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmToolsDatabaseBackup.Designer.vb">
+      <DependentUpon>frmToolsDatabaseBackup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmToolsDatabaseBackup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMasterDbRebuild.Designer.vb">
+      <DependentUpon>frmMasterDbRebuild.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMasterDbRebuild.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmToolsMonitoringReport.Designer.vb">
+      <DependentUpon>frmToolsMonitoringReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmToolsMonitoringReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsersManager.Designer.vb">
+      <DependentUpon>frmUsersManager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsersManager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsersManagerAddEdit.Designer.vb">
+      <DependentUpon>frmUsersManagerAddEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsersManagerAddEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewSystemMessages.Designer.vb">
+      <DependentUpon>frmViewSystemMessages.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmViewSystemMessages.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mdiMainMenu.Designer.vb">
+      <DependentUpon>mdiMainMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mdiMainMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modModule.vb" />
+    <Compile Include="modPrinting.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmAccountingPetcBalanceManager.resx">
+      <DependentUpon>frmAccountingPetcBalanceManager.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAccountingPetcBillingManager.resx">
+      <DependentUpon>frmAccountingPetcBillingManager.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAccountingPetcLedgerAddEntry.resx">
+      <DependentUpon>frmAccountingPetcLedgerAddEntry.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAccountingStradcomBalanceManager.resx">
+      <DependentUpon>frmAccountingStradcomBalanceManager.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAccountingStradcomLedgerAddEntry.resx">
+      <DependentUpon>frmAccountingStradcomLedgerAddEntry.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddColorModule.resx">
+      <DependentUpon>frmAddColorModule.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddMakeSeries.resx">
+      <DependentUpon>frmAddMakeSeries.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBodyTypes.resx">
+      <DependentUpon>frmBodyTypes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHolidaysManager.resx">
+      <DependentUpon>frmHolidaysManager.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHolidaysManagerAddEdit.resx">
+      <DependentUpon>frmHolidaysManagerAddEdit.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogsSystemActivities.resx">
+      <DependentUpon>frmLogsSystemActivities.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogsUserActivities.resx">
+      <DependentUpon>frmLogsUserActivities.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMaintenanceEWalletPetc.resx">
+      <DependentUpon>frmMaintenanceEWalletPetc.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMasterDbManager.resx">
+      <DependentUpon>frmMasterDbManager.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPetcForUploadMonitoring.resx">
+      <DependentUpon>frmPetcForUploadMonitoring.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPetcDataTransmissions.resx">
+      <DependentUpon>frmPetcDataTransmissions.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPetcDataTransmissionsEnlargeImage.resx">
+      <DependentUpon>frmPetcDataTransmissionsEnlargeImage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPetcDataTransmissionViewAllFields.resx">
+      <DependentUpon>frmPetcDataTransmissionViewAllFields.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPetcManager.resx">
+      <DependentUpon>frmPetcManager.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPetcManagerAddEdit.resx">
+      <DependentUpon>frmPetcManagerAddEdit.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPetcManagerImport.resx">
+      <DependentUpon>frmPetcManagerImport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPetcManagerImportCreate.resx">
+      <DependentUpon>frmPetcManagerImportCreate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPetcReportsPerformance.resx">
+      <DependentUpon>frmPetcReportsPerformance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPetcSalesSummaryReport.resx">
+      <DependentUpon>frmPetcSalesSummaryReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegionsProvincesCities.resx">
+      <DependentUpon>frmRegionsProvincesCities.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegionsProvincesCitiesAddEntry.resx">
+      <DependentUpon>frmRegionsProvincesCitiesAddEntry.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAccountingPetcBillingManagerProcess.resx">
+      <DependentUpon>frmAccountingPetcBillingManagerProcess.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSplashScreen.resx">
+      <DependentUpon>frmSplashScreen.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTerminalsManager.resx">
+      <DependentUpon>frmTerminalsManager.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTerminalsManagerAddEdit.resx">
+      <DependentUpon>frmTerminalsManagerAddEdit.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmToolsDatabaseBackup.resx">
+      <DependentUpon>frmToolsDatabaseBackup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMasterDbRebuild.resx">
+      <DependentUpon>frmMasterDbRebuild.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmToolsMonitoringReport.resx">
+      <DependentUpon>frmToolsMonitoringReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsersManager.resx">
+      <DependentUpon>frmUsersManager.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsersManagerAddEdit.resx">
+      <DependentUpon>frmUsersManagerAddEdit.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewSystemMessages.resx">
+      <DependentUpon>frmViewSystemMessages.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mdiMainMenu.resx">
+      <DependentUpon>mdiMainMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="Vox Back Office App_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="VOX-DEI-APPS-ICON.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

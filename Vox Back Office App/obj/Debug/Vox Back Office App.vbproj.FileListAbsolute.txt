@@ -1,0 +1,431 @@
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\Vox Back Office App\bin\Debug\Vox Back Office App.exe.config
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\bin\Debug\Vox Back Office App.exe.config
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\bin\Debug\Vox Back Office App.exe.manifest
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\bin\Debug\Vox Back Office App.application
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\bin\Debug\Vox Back Office App.exe
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\bin\Debug\Vox Back Office App.pdb
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\bin\Debug\Vox Back Office App.xml
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcBalanceManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcBillingManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcLedgerAddEntry.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingStradcomBalanceManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingStradcomLedgerAddEntry.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmHolidaysManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmHolidaysManagerAddEdit.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmLogin.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmLogsSystemActivities.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmLogsUserActivities.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmMaintenanceEWalletPetc.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmMasterDbManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcDataTransmissions.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcDataTransmissionsEnlargeImage.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcDataTransmissionViewAllFields.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManagerAddEdit.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManagerImport.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManagerImportCreate.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcReportsPerformance.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcSalesSummaryReport.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmRegionsProvincesCities.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmRegionsProvincesCitiesAddEntry.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmSplashScreen.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmTerminalsManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmTerminalsManagerAddEdit.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmToolsDatabaseBackup.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmMasterDbRebuild.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmUsersManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmUsersManagerAddEdit.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmViewSystemMessages.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.mdiMainMenu.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.Resources.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox Back Office App.vbproj.GenerateResource.Cache
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox Back Office App.exe.manifest
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox Back Office App.application
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox Back Office App.exe
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox Back Office App.xml
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox Back Office App.pdb
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcBillingManagerProcess.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox Back Office App.vbprojResolveAssemblyReference.cache
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmToolsMonitoringReport.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\bin\Debug\Vox Back Office App.exe.config
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox Back Office App.exe
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox Back Office App.xml
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox Back Office App.pdb
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\bin\Debug\Vox Back Office App.exe.manifest
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\bin\Debug\Vox Back Office App.application
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\bin\Debug\Vox Back Office App.exe
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\bin\Debug\Vox Back Office App.pdb
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\bin\Debug\Vox Back Office App.xml
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcBalanceManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcBillingManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcLedgerAddEntry.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingStradcomBalanceManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingStradcomLedgerAddEntry.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmHolidaysManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmHolidaysManagerAddEdit.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmLogin.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmLogsSystemActivities.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmLogsUserActivities.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmMaintenanceEWalletPetc.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmMasterDbManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcDataTransmissions.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcDataTransmissionsEnlargeImage.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcDataTransmissionViewAllFields.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManagerAddEdit.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManagerImport.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManagerImportCreate.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcReportsPerformance.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcSalesSummaryReport.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmRegionsProvincesCities.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmRegionsProvincesCitiesAddEntry.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcBillingManagerProcess.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmSplashScreen.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmTerminalsManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmTerminalsManagerAddEdit.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmToolsDatabaseBackup.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmMasterDbRebuild.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmToolsMonitoringReport.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmUsersManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmUsersManagerAddEdit.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmViewSystemMessages.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.mdiMainMenu.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.Resources.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox Back Office App.vbproj.GenerateResource.Cache
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox Back Office App.exe.manifest
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox Back Office App.application
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcForUploadMonitoring.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.2.16\Vox Back Office App\obj\Debug\Vox Back Office App.vbprojResolveAssemblyReference.cache
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\bin\Debug\Vox Back Office App.exe.config
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox Back Office App.exe
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox Back Office App.xml
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox Back Office App.pdb
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\bin\Debug\Vox Back Office App.exe.manifest
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\bin\Debug\Vox Back Office App.application
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\bin\Debug\Vox Back Office App.exe
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\bin\Debug\Vox Back Office App.pdb
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\bin\Debug\Vox Back Office App.xml
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcBalanceManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcBillingManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcLedgerAddEntry.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingStradcomBalanceManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingStradcomLedgerAddEntry.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmHolidaysManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmHolidaysManagerAddEdit.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmLogin.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmLogsSystemActivities.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmLogsUserActivities.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmMaintenanceEWalletPetc.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmMasterDbManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcForUploadMonitoring.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcDataTransmissions.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcDataTransmissionsEnlargeImage.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcDataTransmissionViewAllFields.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManagerAddEdit.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManagerImport.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManagerImportCreate.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcReportsPerformance.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcSalesSummaryReport.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmRegionsProvincesCities.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmRegionsProvincesCitiesAddEntry.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcBillingManagerProcess.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmSplashScreen.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmTerminalsManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmTerminalsManagerAddEdit.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmToolsDatabaseBackup.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmMasterDbRebuild.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmToolsMonitoringReport.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmUsersManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmUsersManagerAddEdit.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmViewSystemMessages.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.mdiMainMenu.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox_Back_Office_App.Resources.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox Back Office App.vbproj.GenerateResource.Cache
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox Back Office App.exe.manifest
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox Back Office App.application
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.16\Vox Back Office App\obj\Debug\Vox Back Office App.vbprojResolveAssemblyReference.cache
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\bin\Debug\Vox Back Office App.exe.config
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox Back Office App.exe
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox Back Office App.xml
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox Back Office App.pdb
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\bin\Debug\Vox Back Office App.exe.manifest
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\bin\Debug\Vox Back Office App.application
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\bin\Debug\Vox Back Office App.exe
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\bin\Debug\Vox Back Office App.pdb
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\bin\Debug\Vox Back Office App.xml
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox Back Office App.vbprojResolveAssemblyReference.cache
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcBalanceManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcBillingManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcLedgerAddEntry.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingStradcomBalanceManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingStradcomLedgerAddEntry.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmHolidaysManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmHolidaysManagerAddEdit.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmLogin.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmLogsSystemActivities.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmLogsUserActivities.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmMaintenanceEWalletPetc.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmMasterDbManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcForUploadMonitoring.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcDataTransmissions.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcDataTransmissionsEnlargeImage.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcDataTransmissionViewAllFields.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManagerAddEdit.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManagerImport.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManagerImportCreate.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcReportsPerformance.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcSalesSummaryReport.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmRegionsProvincesCities.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmRegionsProvincesCitiesAddEntry.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcBillingManagerProcess.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmSplashScreen.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmTerminalsManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmTerminalsManagerAddEdit.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmToolsDatabaseBackup.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmMasterDbRebuild.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmToolsMonitoringReport.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmUsersManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmUsersManagerAddEdit.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmViewSystemMessages.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.mdiMainMenu.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox_Back_Office_App.Resources.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox Back Office App.vbproj.GenerateResource.Cache
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox Back Office App.exe.manifest
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.xx\Vox Back Office App\obj\Debug\Vox Back Office App.application
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\bin\Debug\Vox Back Office App.exe.config
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox Back Office App.exe
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox Back Office App.xml
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox Back Office App.pdb
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\bin\Debug\Vox Back Office App.exe.manifest
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\bin\Debug\Vox Back Office App.application
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\bin\Debug\Vox Back Office App.exe
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\bin\Debug\Vox Back Office App.pdb
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\bin\Debug\Vox Back Office App.xml
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox Back Office App.vbprojResolveAssemblyReference.cache
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcBalanceManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcBillingManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcLedgerAddEntry.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingStradcomBalanceManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingStradcomLedgerAddEntry.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmHolidaysManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmHolidaysManagerAddEdit.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmLogin.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmLogsSystemActivities.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmLogsUserActivities.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmMaintenanceEWalletPetc.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmMasterDbManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcForUploadMonitoring.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcDataTransmissions.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcDataTransmissionsEnlargeImage.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcDataTransmissionViewAllFields.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManagerAddEdit.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManagerImport.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManagerImportCreate.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcReportsPerformance.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcSalesSummaryReport.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmRegionsProvincesCities.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmRegionsProvincesCitiesAddEntry.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcBillingManagerProcess.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmSplashScreen.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmTerminalsManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmTerminalsManagerAddEdit.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmToolsDatabaseBackup.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmMasterDbRebuild.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmToolsMonitoringReport.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmUsersManager.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmUsersManagerAddEdit.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmViewSystemMessages.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.mdiMainMenu.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.Resources.resources
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox Back Office App.vbproj.GenerateResource.Cache
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox Back Office App.exe.manifest
+C:\Projects\Vox Dei\LTO Project\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox Back Office App.application
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcBalanceManager.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcBillingManager.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcLedgerAddEntry.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingStradcomBalanceManager.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingStradcomLedgerAddEntry.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmHolidaysManager.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmHolidaysManagerAddEdit.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmLogin.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmLogsSystemActivities.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmLogsUserActivities.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmMaintenanceEWalletPetc.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmMasterDbManager.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcForUploadMonitoring.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcDataTransmissions.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcDataTransmissionsEnlargeImage.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcDataTransmissionViewAllFields.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManager.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManagerAddEdit.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManagerImport.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManagerImportCreate.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcReportsPerformance.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcSalesSummaryReport.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmRegionsProvincesCities.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmRegionsProvincesCitiesAddEntry.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcBillingManagerProcess.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmSplashScreen.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmTerminalsManager.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmTerminalsManagerAddEdit.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmToolsDatabaseBackup.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmMasterDbRebuild.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmToolsMonitoringReport.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmUsersManager.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmUsersManagerAddEdit.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmViewSystemMessages.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.mdiMainMenu.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox_Back_Office_App.Resources.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox Back Office App.vbproj.GenerateResource.cache
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox Back Office App.vbproj.CoreCompileInputs.cache
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox Back Office App.exe
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox Back Office App.xml
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox Back Office App.pdb
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\bin\Debug\Vox Back Office App.exe.config
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\bin\Debug\Vox Back Office App.exe.manifest
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\bin\Debug\Vox Back Office App.application
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\bin\Debug\Vox Back Office App.exe
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\bin\Debug\Vox Back Office App.pdb
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\bin\Debug\Vox Back Office App.xml
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\bin\Debug\Npgsql.dll
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\bin\Debug\Mono.Security.dll
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\bin\Debug\Npgsql.pdb
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\bin\Debug\Npgsql.xml
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\bin\Debug\de\Npgsql.resources.dll
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\bin\Debug\es\Npgsql.resources.dll
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\bin\Debug\fi\Npgsql.resources.dll
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\bin\Debug\fr\Npgsql.resources.dll
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\bin\Debug\ja\Npgsql.resources.dll
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox Back Office App.exe.manifest
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox Back Office App.application
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox Back Office App.vbproj.CopyComplete
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.17\Vox Back Office App\obj\Debug\Vox Back Office App.vbprojAssemblyReference.cache
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\Vox Back Office App.exe.config
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\Vox Back Office App.exe.manifest
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\Vox Back Office App.application
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\Vox Back Office App.exe
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\Vox Back Office App.pdb
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\Vox Back Office App.xml
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\Npgsql.dll
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\Mono.Security.dll
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\Npgsql.pdb
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\Npgsql.xml
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\de\Npgsql.resources.dll
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\es\Npgsql.resources.dll
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\fi\Npgsql.resources.dll
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\fr\Npgsql.resources.dll
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\ja\Npgsql.resources.dll
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox Back Office App.vbprojAssemblyReference.cache
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcBalanceManager.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcBillingManager.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcLedgerAddEntry.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingStradcomBalanceManager.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingStradcomLedgerAddEntry.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmHolidaysManager.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmHolidaysManagerAddEdit.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmLogin.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmLogsSystemActivities.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmLogsUserActivities.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmMaintenanceEWalletPetc.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmMasterDbManager.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcForUploadMonitoring.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcDataTransmissions.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcDataTransmissionsEnlargeImage.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcDataTransmissionViewAllFields.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManager.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManagerAddEdit.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManagerImport.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManagerImportCreate.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcReportsPerformance.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcSalesSummaryReport.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmRegionsProvincesCities.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmRegionsProvincesCitiesAddEntry.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcBillingManagerProcess.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmSplashScreen.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmTerminalsManager.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmTerminalsManagerAddEdit.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmToolsDatabaseBackup.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmMasterDbRebuild.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmToolsMonitoringReport.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmUsersManager.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmUsersManagerAddEdit.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmViewSystemMessages.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.mdiMainMenu.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.Resources.resources
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox Back Office App.vbproj.GenerateResource.cache
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox Back Office App.vbproj.CoreCompileInputs.cache
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox Back Office App.exe.manifest
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox Back Office App.application
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox Back Office App.vbproj.CopyComplete
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox Back Office App.exe
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox Back Office App.xml
+D:\Documents\PETC PROJECTS\PETC - From Sir Naths\Code\Application\Client\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox Back Office App.pdb
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\Vox Back Office App.exe.config
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\Vox Back Office App.exe.manifest
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\Vox Back Office App.application
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\Vox Back Office App.exe
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\Vox Back Office App.pdb
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\Vox Back Office App.xml
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\Npgsql.dll
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\Mono.Security.dll
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\Npgsql.pdb
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\Npgsql.xml
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\de\Npgsql.resources.dll
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\es\Npgsql.resources.dll
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcBalanceManager.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcBillingManager.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcLedgerAddEntry.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingStradcomBalanceManager.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingStradcomLedgerAddEntry.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmHolidaysManager.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmHolidaysManagerAddEdit.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmLogin.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmLogsSystemActivities.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmLogsUserActivities.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmMaintenanceEWalletPetc.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmMasterDbManager.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcForUploadMonitoring.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcDataTransmissions.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcDataTransmissionsEnlargeImage.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcDataTransmissionViewAllFields.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManager.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManagerAddEdit.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManagerImport.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcManagerImportCreate.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcReportsPerformance.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmPetcSalesSummaryReport.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmRegionsProvincesCities.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmRegionsProvincesCitiesAddEntry.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAccountingPetcBillingManagerProcess.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmSplashScreen.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmTerminalsManager.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmTerminalsManagerAddEdit.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmToolsDatabaseBackup.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmMasterDbRebuild.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmToolsMonitoringReport.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmUsersManager.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmUsersManagerAddEdit.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmViewSystemMessages.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.mdiMainMenu.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.Resources.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox Back Office App.vbproj.GenerateResource.cache
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox Back Office App.vbproj.CoreCompileInputs.cache
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox Back Office App.exe.manifest
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox Back Office App.application
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox Back Office App.exe
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox Back Office App.xml
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox Back Office App.pdb
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAddColorModule.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmAddMakeSeries.resources
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox Back Office App.vbprojAssemblyReference.cache
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox Back Office App.vbproj.CopyComplete
+C:\Users\VOX\Desktop\Vox Back Office App 1.3.19\Vox Back Office App\obj\Debug\Vox_Back_Office_App.frmBodyTypes.resources
